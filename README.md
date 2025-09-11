@@ -21,6 +21,12 @@ HTML • CSS • JavaScript • Phyton • Java • Git • GitHub • VS Code �
 ## 📂 Quick links
 - GitHub: https://github.com/jr1713  
   
+---
+
+## 🎓 Certificates
+
+- [Full Stack Development - FreeCodeCamp](https://www.freecodecamp.org/certification/your-username/full-stack)  
+- [Build a free website with WordPress - Coursera](https://coursera.org/share/e01a93834359b9e7393fb5d4cf4cdcc5)
 
 ---
 
