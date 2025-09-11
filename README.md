@@ -25,6 +25,8 @@ HTML • CSS • JavaScript • Git • GitHub • VS Code
 ---
 
 ## 📸 Screenshot
+<img width="1907" height="868" alt="image" src="https://github.com/user-attachments/assets/c3b84837-61f9-428e-9ac9-34bfde12383a" />
+<img width="1906" height="959" alt="image" src="https://github.com/user-attachments/assets/1f9be4ca-3699-4175-b689-965c4dcf72b4" />
 
 
 ---
