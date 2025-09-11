@@ -10,6 +10,10 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
   Simple event listing app (HTML, CSS, JS).
 - **Mr. Whiskers Blog** — https://jr1713.github.io/mr-whiskers-blog/  
   Blog practice project from freeCodeCamp.
+- **Hotel Feedback Form** — https://jr1713.github.io/Hotel-Feedback-Form/  
+  practice project from freeCodeCamp.
+- **Customer Survey Form** — https://jr1713.github.io/Customer-Survey-Form/
+  practice project from freeCodeCamp.
 
 ---
 
