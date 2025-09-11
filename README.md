@@ -14,7 +14,7 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
   practice project from freeCodeCamp.
 - **Customer Survey Form** — https://jr1713.github.io/Customer-Survey-Form/
   practice project from freeCodeCamp.
-- **CatPhotoApp** — https://jr1713.github.io/Customer-Survey-Form/
+- **CatPhotoApp** — https://jr1713.github.io/CatPhotoApp/
   practice project from freeCodeCamp.
 
 ---
