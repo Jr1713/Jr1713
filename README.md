@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Eduardo Jr. J. Delfin (jr1713)
 
-Frontend Developer / QA Tester • learning HTML, CSS, JavaScript and other languages  
-I build small projects to learn and show what I can do.
+Junior Developer & Software QA Tester • testing web and desktop applications to ensure quality and reliability  
+I validate functionality, test UI/UX, and help deliver bug-free software solutions.
 
 ---
 
-## 🚀 Live Projects
+## 🚀 Sample Projects Created
 - **Event Hub** — https://jr1713.github.io/event-hub/  
   Simple event listing app (HTML, CSS, JS).
 - **Mr. Whiskers Blog** — https://jr1713.github.io/mr-whiskers-blog/  
@@ -14,7 +14,7 @@ I build small projects to learn and show what I can do.
 ---
 
 ## 🛠️ Tech & Tools
-HTML • CSS • JavaScript • Git • GitHub • VS Code 
+HTML • CSS • JavaScript • Git • GitHub • VS Code • Jira • Tricentis Test Management • Postman • Selenium 
 
 ---
 
@@ -33,3 +33,4 @@ HTML • CSS • JavaScript • Git • GitHub • VS Code
 
 ## 📫 Contact
 Email: jrdlfn1111@gmail.com
+Number: 09766498715
