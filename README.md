@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Sample Projects Created
+- **Cafe-Menu** — https://jr1713.github.io/Cafe-Menu/
+  practice project from freeCodeCamp (HTML, CSS, JS).
 - **Event Hub** — https://jr1713.github.io/event-hub/  
   Simple event listing app (HTML, CSS, JS).
 - **Mr. Whiskers Blog** — https://jr1713.github.io/mr-whiskers-blog/  
