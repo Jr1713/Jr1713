@@ -7,21 +7,23 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 
 ## 🚀 Sample Projects Created
 - **Cafe-Menu** — https://jr1713.github.io/Cafe-Menu/
-  practice project from freeCodeCamp (HTML, CSS, JS).
+  project from freeCodeCamp (HTML, CSS, JS).
+  - **Product-Landing-Page** — https://jr1713.github.io/Product-Landing-Page/
+  project from freeCodeCamp (HTML, CSS, JS).
 - **Event Hub** — https://jr1713.github.io/event-hub/  
   Simple event listing app (HTML, CSS, JS).
 - **Mr. Whiskers Blog** — https://jr1713.github.io/mr-whiskers-blog/  
   Blog practice project from freeCodeCamp.
 - **Hotel Feedback Form** — https://jr1713.github.io/Hotel-Feedback-Form/
-  practice project from freeCodeCamp.
+ project from freeCodeCamp.
 - **Customer Survey Form** — https://jr1713.github.io/Customer-Survey-Form/
-  practice project from freeCodeCamp.
+ project from freeCodeCamp.
 - **CatPhotoApp** — https://jr1713.github.io/CatPhotoApp/
-  practice project from freeCodeCamp.
+ project from freeCodeCamp.
 - **Final-Exams-Table** — https://jr1713.github.io/Final-Exams-Table/
-  practice project from freeCodeCamp.
+ project from freeCodeCamp.
 - **Technical-Documentation-Page** — https://jr1713.github.io/Technical-Documetation-Page/
-  practice project from freeCodeCamp.
+ project from freeCodeCamp.
   
 
 ---
