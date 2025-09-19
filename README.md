@@ -7,25 +7,25 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 
 ## 🚀 Sample Projects Created
 - **Movie-Review-Page** — https://jr1713.github.io/Movie-Review-Page/
-  project from freeCodeCamp (HTML, CSS, JS).
+  
 - **Cafe-Menu** — https://jr1713.github.io/Cafe-Menu/
-  project from freeCodeCamp (HTML, CSS, JS).
+  
 - **Product-Landing-Page** — https://jr1713.github.io/Product-Landing-Page/
-  project from freeCodeCamp (HTML, CSS, JS).
+ 
 - **Event Hub** — https://jr1713.github.io/event-hub/  
-  Simple event listing app (HTML, CSS, JS).
+ 
 - **Mr. Whiskers Blog** — https://jr1713.github.io/mr-whiskers-blog/  
-  Blog practice project from freeCodeCamp.
+  
 - **Hotel Feedback Form** — https://jr1713.github.io/Hotel-Feedback-Form/
- project from freeCodeCamp.
+ 
 - **Customer Survey Form** — https://jr1713.github.io/Customer-Survey-Form/
- project from freeCodeCamp.
+ 
 - **CatPhotoApp** — https://jr1713.github.io/CatPhotoApp/
- project from freeCodeCamp.
+
 - **Final-Exams-Table** — https://jr1713.github.io/Final-Exams-Table/
- project from freeCodeCamp.
+
 - **Technical-Documentation-Page** — https://jr1713.github.io/Technical-Documetation-Page/
- project from freeCodeCamp.
+ 
   
 
 ---
@@ -52,6 +52,8 @@ HTML • CSS • JavaScript • Phyton • Java • Git • GitHub • VS Code �
 <img width="1905" height="871" alt="image" src="https://github.com/user-attachments/assets/dcfa937c-b2ba-4b20-8337-65663ed41ab1" />
 <img width="1906" height="959" alt="image" src="https://github.com/user-attachments/assets/1f9be4ca-3699-4175-b689-965c4dcf72b4" />
 <img width="953" height="306" alt="image" src="https://github.com/user-attachments/assets/9c99db98-0afa-41ff-9b83-419264047185" />
+<img width="1907" height="921" alt="image" src="https://github.com/user-attachments/assets/a9e5fdc7-fe0b-403f-a604-cfe3865ed789" />
+
 
 
 
