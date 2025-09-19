@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Sample Projects Created
+- **House-Brochure** — https://jr1713.github.io/House-Brochure/
+
 - **Multimedia-Player** — https://jr1713.github.io/Multimedia-Player/
 
 - **Movie-Review-Page** — https://jr1713.github.io/Movie-Review-Page/
@@ -50,6 +52,8 @@ HTML • CSS • JavaScript • Phyton • Java • Git • GitHub • VS Code �
 ---
 
 ## 📸 Screenshot
+
+<img width="1906" height="923" alt="image" src="https://github.com/user-attachments/assets/bcb87ab4-c0b0-4fb7-be9c-e2247a5ffb38" />
 <img width="1907" height="868" alt="image" src="https://github.com/user-attachments/assets/c3b84837-61f9-428e-9ac9-34bfde12383a" />
 <img width="1905" height="871" alt="image" src="https://github.com/user-attachments/assets/dcfa937c-b2ba-4b20-8337-65663ed41ab1" />
 <img width="1906" height="959" alt="image" src="https://github.com/user-attachments/assets/1f9be4ca-3699-4175-b689-965c4dcf72b4" />
