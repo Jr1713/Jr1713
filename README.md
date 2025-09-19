@@ -48,7 +48,7 @@ HTML • CSS • JavaScript • Phyton • Java • Git • GitHub • VS Code �
 
 ## 🎓 Certificates
 
-- [Full Stack Development - FreeCodeCamp](https://www.freecodecamp.org/certification/your-username/full-stack)  
+- [Resposive Web Design - https://www.freecodecamp.org/certification/fcc87dd2d41-34c7-4860-9671-ed4523ac4227/responsive-web-design)  
 - [Build a free website with WordPress - Coursera](https://coursera.org/share/e01a93834359b9e7393fb5d4cf4cdcc5)
 
 ---
