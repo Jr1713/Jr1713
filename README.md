@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Sample Projects Created
+- **Movie-Review-Page** — https://jr1713.github.io/Movie-Review-Page/
+  project from freeCodeCamp (HTML, CSS, JS).
 - **Cafe-Menu** — https://jr1713.github.io/Cafe-Menu/
   project from freeCodeCamp (HTML, CSS, JS).
 - **Product-Landing-Page** — https://jr1713.github.io/Product-Landing-Page/
