@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Sample Projects Created
+- **Palindrome-Checker** — https://jr1713.github.io/Palindrome-Checker/
+
 - **QuickSale** — https://jr1713.github.io/QuickSale/
 
 - **Business-Card** — https://jr1713.github.io/Business-Card/
@@ -57,6 +59,7 @@ HTML • CSS • JavaScript • Phyton • Java • Git • GitHub • VS Code �
 
 ## 📸 Screenshot
 
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/d092bd11-7709-41b8-a9aa-55a245568f66" />
 <img width="1922" height="920" alt="image" src="https://github.com/user-attachments/assets/d15f963c-1330-4679-ba0f-8302bc576d57" />
 <img width="1921" height="921" alt="image" src="https://github.com/user-attachments/assets/c6f81544-d1f3-4feb-b147-5427d78d036d" />
 <img width="1906" height="923" alt="image" src="https://github.com/user-attachments/assets/bcb87ab4-c0b0-4fb7-be9c-e2247a5ffb38" />
