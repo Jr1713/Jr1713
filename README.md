@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Sample Projects Created
+- **QuickSale** — https://jr1713.github.io/QuickSale/
+
 - **Business-Card** — https://jr1713.github.io/Business-Card/
 
 - **House-Brochure** — https://jr1713.github.io/House-Brochure/
@@ -55,6 +57,7 @@ HTML • CSS • JavaScript • Phyton • Java • Git • GitHub • VS Code �
 
 ## 📸 Screenshot
 
+<img width="1922" height="920" alt="image" src="https://github.com/user-attachments/assets/d15f963c-1330-4679-ba0f-8302bc576d57" />
 <img width="1921" height="921" alt="image" src="https://github.com/user-attachments/assets/c6f81544-d1f3-4feb-b147-5427d78d036d" />
 <img width="1906" height="923" alt="image" src="https://github.com/user-attachments/assets/bcb87ab4-c0b0-4fb7-be9c-e2247a5ffb38" />
 <img width="1907" height="868" alt="image" src="https://github.com/user-attachments/assets/c3b84837-61f9-428e-9ac9-34bfde12383a" />
