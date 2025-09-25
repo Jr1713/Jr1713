@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Sample Projects Created
+- **Book-Inventory** — https://jr1713.github.io/Book-Inventory-App/
+
 - **School-Website** — https://jr1713.github.io/School-Website/#home
 
 - **Palindrome-Checker** — https://jr1713.github.io/Palindrome-Checker/
