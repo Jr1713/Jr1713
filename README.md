@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Sample Projects Created
+- **Phone-Number-Validator** — https://jr1713.github.io/Phone-Number-Validator/
+
 - **Roman-Numeral-Converter** — https://jr1713.github.io/Roman-Numeral-Converter/
 
 - **Book-Inventory** — https://jr1713.github.io/Book-Inventory-App/
