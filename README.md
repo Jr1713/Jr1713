@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Sample Projects Created
+- **Cash-Register** — https://jr1713.github.io/Cash-Register/
+  
 - **Phone-Number-Validator** — https://jr1713.github.io/Phone-Number-Validator/
 
 - **Roman-Numeral-Converter** — https://jr1713.github.io/Roman-Numeral-Converter/
@@ -66,6 +68,7 @@ HTML • CSS • JavaScript • Phyton • Java • Git • GitHub • VS Code �
 ---
 
 ## 📸 Screenshot
+<img width="946" height="959" alt="image" src="https://github.com/user-attachments/assets/9e153f90-57e7-433b-a28a-52bd4f5e4098" />
 <img width="939" height="962" alt="image" src="https://github.com/user-attachments/assets/166b3b20-37ed-47a6-81a1-a924386b33d6" />
 <img width="939" height="961" alt="image" src="https://github.com/user-attachments/assets/fd7b12d1-e195-47f4-af14-9095842a0420" />
 <img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/3491480c-04bd-4bac-b9f3-97c38a3cc179" />
