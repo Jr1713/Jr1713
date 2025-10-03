@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Eduardo Jr. J. Delfin (jr1713)
+👋 Hi, I'm Eduardo Jr. J. Delfin (jr1713)
 
-Junior Developer & Software QA Tester • testing web and desktop applications to ensure quality and reliability  
-I validate functionality, test UI/UX, and help deliver bug-free software solutions.
+Software QA Tester • testing web and desktop applications to ensure quality and reliability  
+I validate functionality, test UI/UX, and help deliver bug-free software solutions. With experience in front-end development and backed by professional certifications.
 
 ---
 
