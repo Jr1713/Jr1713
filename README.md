@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+- **Email-Masker** — https://jr1713.github.io/Email-Masker/
+
 - **Fortune-Teller** — https://jr1713.github.io/Fortune-Teller/
 
 - **Trivia-Bot** — https://jr1713.github.io/Trivia-Bot/
@@ -72,6 +74,7 @@ HTML • CSS • JavaScript • Phyton • Java • GitHub • VS Code • Jira 
 ---
 
 ## 📸 Screenshot
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/55060745-194f-4a97-872f-9c6e974a02ce" />
 <img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/0ca70491-e6ea-4f4c-8d5f-e3261a9eb81e" />
 <img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/2a127a98-aafd-4427-b9f8-04a908cc7e90" />
 <img width="946" height="959" alt="image" src="https://github.com/user-attachments/assets/9e153f90-57e7-433b-a28a-52bd4f5e4098" />
