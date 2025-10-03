@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+- **Fortune-Teller** — https://jr1713.github.io/Fortune-Teller/
+
 - **Trivia-Bot** — https://jr1713.github.io/Trivia-Bot/
 
 - **Cash-Register** — https://jr1713.github.io/Cash-Register/
@@ -70,6 +72,7 @@ HTML • CSS • JavaScript • Phyton • Java • GitHub • VS Code • Jira 
 ---
 
 ## 📸 Screenshot
+<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/0ca70491-e6ea-4f4c-8d5f-e3261a9eb81e" />
 <img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/2a127a98-aafd-4427-b9f8-04a908cc7e90" />
 <img width="946" height="959" alt="image" src="https://github.com/user-attachments/assets/9e153f90-57e7-433b-a28a-52bd4f5e4098" />
 <img width="939" height="962" alt="image" src="https://github.com/user-attachments/assets/166b3b20-37ed-47a6-81a1-a924386b33d6" />
@@ -86,10 +89,6 @@ HTML • CSS • JavaScript • Phyton • Java • GitHub • VS Code • Jira 
 <img width="953" height="306" alt="image" src="https://github.com/user-attachments/assets/9c99db98-0afa-41ff-9b83-419264047185" />
 <img width="1907" height="921" alt="image" src="https://github.com/user-attachments/assets/a9e5fdc7-fe0b-403f-a604-cfe3865ed789" />
 <img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/951b78c9-e8ee-4cc6-9bd9-edce527f6641" />
-
-
-
-
 
 ---
 
