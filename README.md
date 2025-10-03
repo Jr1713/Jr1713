@@ -53,7 +53,7 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🛠️ Tech & Tools
-HTML • CSS • JavaScript • Phyton • Java • Git • GitHub • VS Code • Jira • Tricentis Test Management • Postman • Selenium
+HTML • CSS • JavaScript • Phyton • Java • GitHub • VS Code • Jira • Tricentis Test Management • Postman • Selenium
 
 ---
 
