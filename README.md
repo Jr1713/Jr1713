@@ -65,7 +65,7 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 
 ---
 
-🧩 Technical Skills
+## 🧩 Technical Skills
 
 Programming Languages:
 JavaScript (ES6+), HTML5, CSS3, C#, SQL
