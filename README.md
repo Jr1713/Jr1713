@@ -65,8 +65,28 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 
 ---
 
-## 🛠️ Tech & Tools
-•HTML •CSS •JavaScript •React •Nodejs •API •Phyton •Java •GitHub •Codepen •Jira •Tricentis Test Management •Postman •Selenium
+🧩 Technical Skills
+
+Programming Languages:
+JavaScript (ES6+), HTML5, CSS3, C#, SQL
+
+Frameworks & Libraries:
+Node.js, Express.js, Bootstrap, React (basic), JSON API
+
+Testing & QA Tools:
+Manual Testing, Automation Testing, Jira, Tricentis Test Management, Postman, Selenium, Test Case Design, Bug Reporting, Functional Testing, Quality Assurance
+
+API & Backend Technologies:
+RESTful APIs, Fetch API, JSON, AJAX, Postman API Testing
+
+Web Development & UI:
+Frontend & Backend Integration, DOM Manipulation, Responsive Web Design, UI/UX Validation, CodePen Projects, GitHub Hosting
+
+Tools & Platforms:
+Git, GitHub, CodePen, VS Code, Agile Methodology, Documentation, Collaboration Tools
+
+Soft Skills:
+Analytical Thinking, Problem Solving, Communication, Attention to Detail
 
 ---
 
