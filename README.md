@@ -80,7 +80,7 @@ HTML • CSS • JavaScript • Phyton • Java • GitHub • VS Code • Jira 
 ---
 
 ## 📸 Screenshot
-<img width="504" height="1042" alt="image" src="https://github.com/user-attachments/assets/9408316b-0285-475f-a35c-7c06b264edf3" />
+<img width="502" height="917" alt="image" src="https://github.com/user-attachments/assets/070747f6-12b7-4978-af7e-df9640ddcf5c" />
 <img width="503" height="920" alt="image" src="https://github.com/user-attachments/assets/6d9b07bf-a81d-488e-b32c-7da2952d6f72" />
 <img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/54fbfc7d-75fe-4923-82e7-39d2f08c350b" />
 <img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/55060745-194f-4a97-872f-9c6e974a02ce" />
