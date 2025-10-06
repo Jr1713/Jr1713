@@ -73,6 +73,7 @@ HTML • CSS • JavaScript • Phyton • Java • GitHub • VS Code • Jira 
 ---
 
 ## 🎓 Certificates
+- [Front End Development Libraries - https://www.freecodecamp.org/certification/fcc87dd2d41-34c7-4860-9671-ed4523ac4227/front-end-development-libraries]
 - [Javascript Algorithms and Data Structures - https://www.freecodecamp.org/certification/fcc87dd2d41-34c7-4860-9671-ed4523ac4227/javascript-algorithms-and-data-structures-v8]
 - [Resposive Web Design - https://www.freecodecamp.org/certification/fcc87dd2d41-34c7-4860-9671-ed4523ac4227/responsive-web-design]
 - [Build a free website with WordPress - (https://coursera.org/share/e01a93834359b9e7393fb5d4cf4cdcc5]
