@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+- **Markdown-Previewer** — https://jr1713.github.io/Markdown-Previewer/
+
 - **Random-Quote-Machine** — https://jr1713.github.io/Random-Quote-Machine/
 
 - **Library-Manager** — https://jr1713.github.io/Library-Manager/
