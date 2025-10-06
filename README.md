@@ -6,6 +6,7 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+
 - **Markdown-Previewer** — https://jr1713.github.io/Markdown-Previewer/
 
 - **Random-Quote-Machine** — https://jr1713.github.io/Random-Quote-Machine/
@@ -65,13 +66,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🛠️ Tech & Tools
-HTML • CSS • JavaScript • Phyton •• Java • GitHub • VS Code • Jira • Tricentis Test Management • Postman • Selenium
+•HTML •CSS •JavaScript •Phyton •React •Java •GitHub •Codepen •Jira •Tricentis Test Management •Postman •Selenium
 
----
-
-## 📂 Quick links
-- GitHub: https://github.com/jr1713  
-  
 ---
 
 ## 🎓 Certificates
