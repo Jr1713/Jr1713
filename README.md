@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+- **Tic-Tac-Toe-Game** — https://jr1713.github.io/Tic-Tac-Toe-Game/
+
 - **Wikipedia-Viewer** — https://jr1713.github.io/Wikipedia-Viewer/
 
 - **Twitch-JSON-API** — https://jr1713.github.io/Twitch-JSON-API/
@@ -111,6 +113,7 @@ Analytical Thinking, Problem Solving, Communication, Attention to Detail
 ---
 
 ## 📸 Screenshot
+<img width="954" height="923" alt="image" src="https://github.com/user-attachments/assets/3fddbb60-24b2-492a-b6f1-73a7220ea93f" />
 <img width="937" height="886" alt="image" src="https://github.com/user-attachments/assets/75b1a847-5e61-427b-8786-3728e4c4b3ad" />
 <img width="936" height="920" alt="image" src="https://github.com/user-attachments/assets/870a35b7-dd55-485e-9a58-09c439bdc574" />
 <img width="502" height="922" alt="image" src="https://github.com/user-attachments/assets/edf16309-bad4-4079-9606-910f9c22ccb5" />
