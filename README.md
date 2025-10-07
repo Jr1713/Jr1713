@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+- **JavaScript-Calculator** — https://jr1713.github.io/JavaScript-Calculator/
+
 - **Drum-Machine** — https://jr1713.github.io/Drum-Machine/
 
 - **Markdown-Previewer** — https://jr1713.github.io/Markdown-Previewer/
@@ -101,6 +103,7 @@ Analytical Thinking, Problem Solving, Communication, Attention to Detail
 ---
 
 ## 📸 Screenshot
+<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/05169194-92f1-4dd0-b58b-0168a21e2195" />
 <img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/6edc4602-35ec-47b9-8cbe-9a6c933896f0" />
 <img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/52cd2696-bd67-4ebc-a6d5-40038756068b" />
 <img width="502" height="917" alt="image" src="https://github.com/user-attachments/assets/070747f6-12b7-4978-af7e-df9640ddcf5c" />
