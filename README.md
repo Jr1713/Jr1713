@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+- **Wikipedia-Viewer** — https://jr1713.github.io/Wikipedia-Viewer/
+
 - **Twitch-JSON-API** — https://jr1713.github.io/Twitch-JSON-API/
   
 - **Local-Weather-App** — https://jr1713.github.io/Local-Weather-App/
@@ -109,6 +111,7 @@ Analytical Thinking, Problem Solving, Communication, Attention to Detail
 ---
 
 ## 📸 Screenshot
+<img width="937" height="886" alt="image" src="https://github.com/user-attachments/assets/75b1a847-5e61-427b-8786-3728e4c4b3ad" />
 <img width="936" height="920" alt="image" src="https://github.com/user-attachments/assets/870a35b7-dd55-485e-9a58-09c439bdc574" />
 <img width="502" height="922" alt="image" src="https://github.com/user-attachments/assets/edf16309-bad4-4079-9606-910f9c22ccb5" />
 <img width="503" height="836" alt="image" src="https://github.com/user-attachments/assets/aefe3ce7-ad8a-4158-a192-76c12320da0a" />
