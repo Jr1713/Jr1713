@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+- **Twitch-JSON-API** — https://jr1713.github.io/Twitch-JSON-API/
+  
 - **Local-Weather-App** — https://jr1713.github.io/Local-Weather-App/
 
 - **25-5-Clock** — https://jr1713.github.io/25-5-Clock/
@@ -107,6 +109,7 @@ Analytical Thinking, Problem Solving, Communication, Attention to Detail
 ---
 
 ## 📸 Screenshot
+<img width="936" height="920" alt="image" src="https://github.com/user-attachments/assets/870a35b7-dd55-485e-9a58-09c439bdc574" />
 <img width="502" height="922" alt="image" src="https://github.com/user-attachments/assets/edf16309-bad4-4079-9606-910f9c22ccb5" />
 <img width="503" height="836" alt="image" src="https://github.com/user-attachments/assets/aefe3ce7-ad8a-4158-a192-76c12320da0a" />
 <img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/05169194-92f1-4dd0-b58b-0168a21e2195" />
