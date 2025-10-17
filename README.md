@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+- **Finance-Tracker** — https://jr1713.github.io/Finance-Tracker/
+
 - **Memory-Light-Game** — https://jr1713.github.io/Memory-Light-Game/
 
 - **Tic-Tac-Toe-Game** — https://jr1713.github.io/Tic-Tac-Toe-Game/
@@ -89,7 +91,7 @@ Frameworks & Libraries:
 Node.js, Express.js, Bootstrap, React (basic), JSON API
 
 Testing & QA Tools:
-Manual Testing, Automation Testing, Jira, Tricentis Test Management, Postman, Selenium, Test Case Design, Bug Reporting, Functional Testing, Quality Assurance
+Manual Testing, Automation Testing, Jira, Confluence, Tricentis Test Management, Postman, Selenium, Bug Reporting, Functional Testing, Quality Assurance
 
 API & Backend Technologies:
 RESTful APIs, Fetch API, JSON, AJAX, Postman API Testing
@@ -115,6 +117,7 @@ Analytical Thinking, Problem Solving, Communication, Attention to Detail
 ---
 
 ## 📸 Screenshot
+<img width="1905" height="960" alt="image" src="https://github.com/user-attachments/assets/9a625281-1f9f-4829-9c5c-b12b94ed9819" />
 <img width="936" height="920" alt="image" src="https://github.com/user-attachments/assets/b5d8ef51-6a7c-4995-88e3-1fc90d245d51" />
 <img width="954" height="923" alt="image" src="https://github.com/user-attachments/assets/3fddbb60-24b2-492a-b6f1-73a7220ea93f" />
 <img width="937" height="886" alt="image" src="https://github.com/user-attachments/assets/75b1a847-5e61-427b-8786-3728e4c4b3ad" />
