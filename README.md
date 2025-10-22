@@ -6,6 +6,8 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+- **Visualize-Data-with-a-Bar-Chart** — https://jr1713.github.io/Visualize-Data-with-a-Bar-Chart/
+
 - **Finance-Tracker** — https://jr1713.github.io/Finance-Tracker/
 
 - **Memory-Light-Game** — https://jr1713.github.io/Memory-Light-Game/
@@ -117,6 +119,7 @@ Analytical Thinking, Problem Solving, Communication, Attention to Detail
 ---
 
 ## 📸 Screenshot
+<img width="959" height="893" alt="image" src="https://github.com/user-attachments/assets/6e7a60de-5096-4910-9d4e-4fd2797dbd99" />
 <img width="1905" height="960" alt="image" src="https://github.com/user-attachments/assets/9a625281-1f9f-4829-9c5c-b12b94ed9819" />
 <img width="936" height="920" alt="image" src="https://github.com/user-attachments/assets/b5d8ef51-6a7c-4995-88e3-1fc90d245d51" />
 <img width="954" height="923" alt="image" src="https://github.com/user-attachments/assets/3fddbb60-24b2-492a-b6f1-73a7220ea93f" />
