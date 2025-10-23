@@ -6,6 +6,9 @@ I validate functionality, test UI/UX, and help deliver bug-free software solutio
 ---
 
 ## 🚀 Projects Created
+
+- **Visualize-Data-with-a-Scatterplot-Graph** - https://jr1713.github.io/Visualize-Data-with-a-Scatterplot-Graph/
+
 - **Visualize-Data-with-a-Bar-Chart** — https://jr1713.github.io/Visualize-Data-with-a-Bar-Chart/
 
 - **Finance-Tracker** — https://jr1713.github.io/Finance-Tracker/
@@ -119,6 +122,7 @@ Analytical Thinking, Problem Solving, Communication, Attention to Detail
 ---
 
 ## 📸 Screenshot
+<img width="960" height="921" alt="image" src="https://github.com/user-attachments/assets/a22a432b-4be5-45c5-8e85-09b7d94f6d04" />
 <img width="959" height="893" alt="image" src="https://github.com/user-attachments/assets/6e7a60de-5096-4910-9d4e-4fd2797dbd99" />
 <img width="1905" height="960" alt="image" src="https://github.com/user-attachments/assets/9a625281-1f9f-4829-9c5c-b12b94ed9819" />
 <img width="936" height="920" alt="image" src="https://github.com/user-attachments/assets/b5d8ef51-6a7c-4995-88e3-1fc90d245d51" />
