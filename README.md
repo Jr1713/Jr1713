@@ -113,6 +113,7 @@ Analytical Thinking, Problem Solving, Communication, Attention to Detail
 ---
 
 ## 🎓 Certificates
+- [Data Visualization - https://www.freecodecamp.org/certification/fcc87dd2d41-34c7-4860-9671-ed4523ac4227/data-visualization]
 - [Legacy Frontend - https://www.freecodecamp.org/certification/fcc87dd2d41-34c7-4860-9671-ed4523ac4227/legacy-front-end]
 - [Front End Development Libraries - https://www.freecodecamp.org/certification/fcc87dd2d41-34c7-4860-9671-ed4523ac4227/front-end-development-libraries]
 - [Javascript Algorithms and Data Structures - https://www.freecodecamp.org/certification/fcc87dd2d41-34c7-4860-9671-ed4523ac4227/javascript-algorithms-and-data-structures-v8]
